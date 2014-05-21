@@ -1,0 +1,55 @@
+{
+  "name": "Teech.io",
+  "description": "Teech.io is a cloud backend for edtech apps. It makes it easy for developers to build educational applications faster and hassle free.",
+  "image": "http://teech.io/logo_teech_io.png",
+  "url": "http://teech.io",
+  "apis": [
+    {
+      "name": "Teech.io",
+      "description": "Teech.io is a cloud backend for edtech apps. It makes it easy for developers to build educational applications faster and hassle free.",
+      "image": "http://teech.io/logo_teech_io.png",
+      "humanURL": "http://teech.io/documentation/",
+      "machineURL": "http://api.teech.io",
+      "tags": "education, edtech, mbaas, backend, platform",
+      "urls": [
+        {
+          "type": "signup",
+          "url": "http://dashboard.teech.io"
+        }
+      ],
+      "contact": [
+        {
+          "type": "email",
+          "url": "support@teech.io"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/teech_io"
+        },
+        {
+          "type": "github",
+          "url": "https://github.com/teechio"
+        }
+      ],
+      "meta": [
+        {
+          "type": "pricing",
+          "url": "freemium"
+        }
+      ]
+    }
+  ],
+  "include": [],
+  "maintainers": [
+    {
+      "name": "Teech.io",
+      "organizationName": "Teechio Ltd.",
+      "url":"http://teech.io",
+      "email": "support@teech.io",
+      "twitter": "https://twitter.com/teech_io",
+      "github": "https://github.com/teechio"
+    }
+  ],
+  "tags": "education, edtech, mbaas, backend, platform",
+  "modified": "21/05/2014"
+}
